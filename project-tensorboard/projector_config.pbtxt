@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "sample_data_cos_reduction1"
+  metadata_path: "meta_cos_reduction1.tsv"
+}
